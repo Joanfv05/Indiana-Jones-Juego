@@ -63,7 +63,7 @@ El juego incluye un menú interactivo con tres opciones principales:
     java IndianaJones
     ```
 ## Captura de Pantalla
-![Captura de pantalla del juego](C:/Users/Admin/IdeaProjects/Indiana%20Jones%20y%20la%20recolecta%20de%20gemas/Foto.png)
+![Captura de pantalla del juego](Foto.png)
 
 ## Tecnologías Utilizadas
 - **Java:** Lenguaje de programación utilizado para desarrollar el juego.
